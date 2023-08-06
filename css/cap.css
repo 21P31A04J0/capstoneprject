@@ -1,0 +1,419 @@
+.a{
+	height: 600px;
+	width: 1460px;
+	background-image: url('../images/bg.jpg');
+	background-repeat: no-repeat;
+}
+.b{
+	height: 300px;
+	width: 600px;
+	padding-top: 130px;
+	padding-left: 430px;
+}
+.c{
+	height: 300px;
+	width: 300px;
+	background: yellow;
+	float: left;
+}
+.c img{
+	height: 300px;
+	width: 300px;
+
+}
+.d{
+	height: 300px;
+	width: 300px;
+	background-color: white;
+	float: right;
+}
+.d h1{
+	color: hotpink;
+	font-style: serif;
+	padding-left: 20px;
+
+}
+.d p{
+	font-size: 10px;
+	padding-left: 20px;
+	color: black;
+}
+.d .r{
+	height: 30px;
+	width: 100px;
+	background: darkviolet;
+	color: white;
+	border-radius: 6px;
+}
+.d button{
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+.e{
+	height: 1300px;
+	width: 1460px;
+	background-image: url('../images/bg3.jpeg');
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.e h1{
+	padding-top: 100px;
+	padding-left: 600px;
+	font-family:serif;
+	font-size: 50px;
+	font-weight:50;
+}
+.e hr{
+	background: deeppink;
+	height: 4px;
+	margin-left: 560px;
+	margin-right: 550px;
+	margin-top: 20px;
+}
+.e p{
+	margin-left: 550px;
+	margin-right: 350px;
+	margin-top: 30px;
+
+}
+.q{
+	height: 30px;
+	width: 100px;
+	background: blue;
+	color: white;
+	border-radius: 6px;
+	margin-left: 10px;
+}
+.g{
+	height: 30px;
+	width: 100px;
+	border-radius: 6px;
+	border:2px solid blue;	
+	margin-left: 100px;
+}
+.f{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	background-color:hotpink;
+	margin-top: 100px;
+	margin-left: 600px;
+}
+.uu{
+	height: 300px;
+	width: 400px;
+	background-color: blue;
+	position: relative;
+	float: left;
+	top: 130px;
+	left: 120px;
+}
+.uu img{
+	height: 300px;
+	width: 400px;
+}
+.jan{
+	height: 400px;
+	width: 400px;
+	background-color: yellow;
+	float: left;
+	position: relative;
+	left: 350px;
+	bottom: 180px;
+	margin: 15px;
+	border-radius: 10px;
+}
+.jan img{
+	height: 400px;
+	width: 400px;
+}
+.siri{
+	height:300px;
+	width: 400px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	position: relative;
+	bottom: 120px;
+	left: 10px;
+	border-radius: 10px solid black;
+}
+.siri h2{
+	font-size: 30px;
+	font-family: georgia
+	margin-left: 22px;
+	color: skyblue;
+}
+.sne{
+	background-color: blueviolet;
+	height: 800px;
+	width: 1460px;
+}
+.sne h1{
+	font-size: 50px;
+	color: white;
+	padding-top: 80px;
+	margin-left: 510px;
+}
+.sne p{
+	margin-left: 500px;
+	color: white;
+
+}
+.xa{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin-left: 240px;
+	margin-top: 14px;
+}
+.ma{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	margin-left: 90px;
+}
+.pa{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	margin-left: 80px;
+}
+.ray{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.ray img{
+	width: 200px;
+	height: 200px;
+	border: 5px solid blue;
+}
+.ray ul{
+	padding-left: 1px;
+	font-size: 15px;
+}
+.siriki{
+	height: 800px;
+	width: 1460px;
+	background-image: url('../images/nene.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.m1{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	margin-left: 90px;
+}
+.m4{
+	width: 300px;
+	height: 225px;
+	background-color: green;
+}
+.m5{
+	width: 300px;
+	height: 225px;
+	background-color: yellow;
+}
+.m5 h1{
+	font-size: 5px;
+	color: blue;
+}
+.m2{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	margin-left: 90px;
+}
+.m3{
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	float: left;
+	margin: 15px;
+	margin-left: 90px;
+}
+.siriki h1{
+	font-size: 50px;
+	color: black;
+	padding-top: 80px;
+	margin-left: 500px;
+}
+.siriki p{
+	margin-left: 450px;
+	color: black;
+
+}
+.sp{
+	background-color: blueviolet;
+	height: 800px;
+	width: 1460px;
+}
+.sp h1{
+	font-size: 50px;
+	color: white;
+	padding-top: 80px;
+	margin-left: 510px;
+}
+.sp p{
+	margin-left: 600px;
+	color: white;
+
+}
+.siri ul{
+	font-size:15px;
+	color: black;
+}
+.m{
+	margin-bottom: 50px;
+}
+.ray p{
+	font-size: 20px;
+}
+.last{
+	height: 600px;
+	width: 1460px;
+	background-color: gray;
+}
+.last p{
+      padding-top: 80px;
+      padding-left: 100px;
+}
+.last img{
+	padding-left: 900px;
+	width: 550px;
+	height: 250px;
+	padding-bottom: 1000px;
+}
+.worst{
+	width: 1460px;
+	height: 100px;
+	background-color: orange;
+	padding-top:2px;
+	font-size: 40px;
+
+}
+.box{
+	display: block;
+	float: left;
+	width: 20%;
+	padding: 40px;
+}
+.box img{
+	width: 100%;
+	border: 3px solid black;
+}
+main{
+	margin-left: 200px;
+	margin-top: 40px;
+	padding-top: 5px;
+}
+.mom{
+	width: 1460px;
+	height: 750px;
+	background-color: gray;
+}
+.len{
+	width: 1460px;
+	height: 1300px;
+	background-color: violet;
+}
+.bag{
+	width: 250px;
+	height: 250px;
+	background-color: skyblue;
+	margin: 120px;
+	margin-left: 290px;
+	float: left;
+}
+.bag img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
+.pen{
+	width: 250px;
+	height: 250px;
+	background-color: blue;
+	margin: 120px;
+	margin-left: 210px;
+	float: left;
+}
+.pen img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
+.pencil{
+	width: 250px;
+	height: 250px;
+	background-color: green;
+	margin: 120px;
+	margin-left: 290px;
+	float: left;
+}
+.pencil img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
+.len h1{
+	font-size: 100px;
+}
+.current{
+	width: 250px;
+	height: 250px;
+	background-color: skyblue;
+	margin: 120px;
+	margin-left: 220px;
+	float: left;
+}
+.current img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
+.voltage{
+	width: 250px;
+	height: 250px;
+	background-color: blue;
+	margin: 120px;
+	margin-left: 270px;
+	float: right;
+}
+.voltage img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
+.power{
+	width: 250px;
+	height: 250px;
+	background-color: green;
+	margin: 120px;
+	margin-left: 190px;
+	float: right;
+}
+.power img{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border: 2px solid black;
+}
